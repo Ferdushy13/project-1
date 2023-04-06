@@ -1,3 +1,64 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.banner-container{
+    background-color: rgb(123, 111, 111);
+}
+.banner-column{
+    background-color: rgb(91, 91, 176);
+}
+.navbar-container{
+    top: 0%;
+    background-color: rgb(27, 19, 19);
+    position: sticky;
+    z-index: 2;
+}
+.about-container{
+    background-color: rgb(4, 82, 82);
+}
+.education-container{
+    background-color:rgb(233, 186, 186) ;
+}
+.bg-redtype{
+    background-color: brown;
+}
+.bg-redtype:hover{
+   color: black!important;
+}
+.redtype-color{
+    color:brown ;
+}
+.circle{
+    background-color: rgb(15, 128, 64);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-container{
+    background-color:rgb(155, 134, 175) ;
+}
+.form-container{
+    background-color: rgb(38, 32, 32);
+}
+.inner-form{
+    background-color: rgb(83, 67, 67);
+}
+.footer{
+    background-color:rgb(33, 109, 176);
+}
+.circle-edu{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(155, 134, 175) ;;
+}
+
+.circle-edu:hover{
+    background-color: rgb(83, 67, 67) ;
+   
+
+}
